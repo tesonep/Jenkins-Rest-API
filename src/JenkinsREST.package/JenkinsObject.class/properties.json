@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "JenkinsREST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"DefaultJenkins",
+		"Token",
+		"Username"
+	],
+	"instvars" : [
+		"entity",
+		"url"
+	],
+	"name" : "JenkinsObject",
+	"type" : "normal"
+}

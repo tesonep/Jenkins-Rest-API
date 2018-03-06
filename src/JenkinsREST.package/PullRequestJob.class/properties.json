@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "JenkinsObject",
+	"category" : "JenkinsREST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"number",
+		"branchProperties"
+	],
+	"name" : "PullRequestJob",
+	"type" : "normal"
+}
