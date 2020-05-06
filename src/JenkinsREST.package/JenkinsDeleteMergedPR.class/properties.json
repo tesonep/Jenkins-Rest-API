@@ -1,16 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "JenkinsObject",
+	"super" : "JenkinsProcess",
 	"category" : "JenkinsREST",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"name",
-		"number",
-		"branchProperties",
-		"url"
+		"jenkinsProjectName"
 	],
-	"name" : "PullRequestJob",
+	"name" : "JenkinsDeleteMergedPR",
 	"type" : "normal"
 }

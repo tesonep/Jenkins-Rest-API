@@ -6,9 +6,13 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"connection",
-		"entity"
+		"jenkinsUrl",
+		"githubClient",
+		"githubOwner",
+		"githubRepo",
+		"jenkinsToken",
+		"jenkinsUsername"
 	],
-	"name" : "JenkinsObject",
+	"name" : "JenkinsConnection",
 	"type" : "normal"
 }
