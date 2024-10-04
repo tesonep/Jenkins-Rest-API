@@ -1,3 +1,0 @@
-testing
-isDead
-	^ branch = #Dead
